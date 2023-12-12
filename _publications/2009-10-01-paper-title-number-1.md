@@ -10,6 +10,6 @@ citation: 'Xu T, Liu Y, Ma Z, et al. A DQN-Based Multi-Objective Participant Sel
 ---
 <!--This paper is about the number 1. The number 2 is left for future work.-->
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://tongyangxu12.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
